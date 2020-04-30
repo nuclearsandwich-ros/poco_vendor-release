@@ -191,4 +191,5 @@ tracks:
     ros_distro: verystable
     vcs_type: git
     vcs_uri: https://github.com/ros2/poco_vendor.git
-    version: :{auto}
+    version: 1.2.0
+    version_saved: :{auto}
